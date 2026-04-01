@@ -1,2 +1,3 @@
 title: Unraid Docker Directory Migration Guide
 description: How to switch Unraid Docker storage from vDisk to directory mode
+theme: jekyll-theme-minimal
